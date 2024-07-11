@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 LABEL Description="Tilemaker" Version="1.4.0"
 
 # INSTALL DEPENDENCIES
